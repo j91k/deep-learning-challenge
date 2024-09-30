@@ -40,9 +40,8 @@ The purpose of this analysis is to develop a deep learning model that predicts t
 
 - **Steps taken to increase model performance**:
   1. Increased neurons in hidden layers (80, 30, 15)
-  2. Added an additional hidden layer
-  3. Increased epochs from 50 to 100
-  4. Further adjusted neurons in hidden layers (120, 50, 1)
+  2. Increased epochs from 50 to 100
+  3. Further adjusted neurons in hidden layers (120, 50, 1)
 
 ## Summary
 
